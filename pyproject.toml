@@ -1,0 +1,10 @@
+[project]
+name = "langgraph-learing"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "grandalf>=0.8",
+    "langgraph>=1.2.11",
+    "pip>=26.2.1",
+]
